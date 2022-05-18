@@ -7,4 +7,5 @@ Analysis of Corona and Disease Data
 - 2019111992 도승희
 - 2019112059 이가영
 
+## Infographics
 ![최종_1팀_3CE_인포그래픽](https://user-images.githubusercontent.com/56374885/168933617-5fa9d54c-748a-4f4e-9006-f50f1ce4abcd.png)
